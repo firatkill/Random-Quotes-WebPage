@@ -1,0 +1,21 @@
+.container {
+  width: 50%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30%;
+}
+body {
+  background-color: rgba(166, 39, 39, 0.819);
+}
+button {
+  background-color: rgba(166, 39, 39, 0.819);
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 10px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+}
